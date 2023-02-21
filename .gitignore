@@ -1,0 +1,4 @@
+﻿*.jpg
+*.png
+PaddleOCR/
+.vscode/
